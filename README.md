@@ -10,8 +10,7 @@ Analysis:
     Name = Test1;
     Mode = Calibration;
 
-Title:
-https://github.com/Vas08011980/BMC-Psychology-https-github.com-Vas08011980-The-Online-Flow-Questionnaire-An-Item-Response-Theory-/commit/d651a65a3680d0e1cf72af15667b34736e0ba40c
+Title:FLOW IRT
 Comments:
 Estimation:
     Method = BAEM;
